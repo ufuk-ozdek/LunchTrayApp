@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.lunchtray.test.app-mergeDebugAndroidTestResources-2:/values-vi/values-vi.xml",
+            "map": [
+                {
+                    "source": "/Users/ufukozdek/Library/Android/sdk/caches/transforms-3/3553261db6b75c4477d37a1ff43fdfc9/transformed/core-1.7.0/res/values-vi/values-vi.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        }
+    ]
+}
